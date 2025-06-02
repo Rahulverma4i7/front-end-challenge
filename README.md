@@ -1,21 +1,27 @@
 # This Take take home challenge-front-end!!
 
-# how to start
+# Website link [front-end-challenge-zeta.vercel.app](https://front-end-challenge-zeta.vercel.app/)
 
-# npm run dev
+## github link of challenge
 
-# use login creditionals give on login page
+-https://github.com/slooze-careers/front-end-challenge
 
-# Tasks
+## how to start
 
-# Role based login
+npm run dev
 
-# dashboard with insights
+use login creditionals give on login page
 
-# role based gating
+## Tasks
 
-# fetch product data
+- Role based login
 
-# Light/Dark Mode toggle
+- dashboard with insights
+
+- role based gating
+
+- fetch product data
+
+- Light/Dark Mode toggle
 
 ## Thank you for Assignment I have learned alot !
