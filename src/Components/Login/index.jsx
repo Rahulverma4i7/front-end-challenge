@@ -87,7 +87,7 @@ const LoginPage = () => {
         }}
       >
         <div style={{ textAlign: "center", marginBottom: 24 }}>
-          <Title level={3}>Inventory Management System</Title>
+          <Title level={3}>Slooze Assignment</Title>
         </div>
 
         {error && (
@@ -163,7 +163,7 @@ const LoginPage = () => {
           </Form.Item>
         </Form>
 
-        <Divider>Test Credentials</Divider>
+        <Divider>Testing Credentials</Divider>
 
         <div style={{ marginTop: 16 }}>
           <p>
